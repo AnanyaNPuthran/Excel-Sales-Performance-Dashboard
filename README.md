@@ -31,6 +31,15 @@ This project focuses on analysing sales data and creating an interactive Sales P
 
 ## Project Objective
 To analyse sales performance, understand business trends and present useful information through an interactive Excel dashboard.
+## Dashboard Preview
 
+### Main Dashboard
+![Dashboard](Dashboard.png)
+
+### Salesman Analysis
+![Salesman](Salesman.png)
+
+### Products Analysis
+![Products](Products.png)
 ## Author
 Ananya N Puthran
